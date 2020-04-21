@@ -34,6 +34,7 @@ public class Cafe extends PApplet {
 
     public void setup() {
         loadData();
+        printProducts();
     }
 
 }

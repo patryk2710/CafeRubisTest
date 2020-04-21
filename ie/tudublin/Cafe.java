@@ -1,3 +1,6 @@
+/* Patryk Rojowiec
+C18437596
+*/
 package ie.tudublin;
 
 import java.util.ArrayList;
@@ -12,11 +15,7 @@ public class Cafe extends PApplet {
         size(800,600);
     }
 
-
-
-
-
-
+    
 
 }
 
